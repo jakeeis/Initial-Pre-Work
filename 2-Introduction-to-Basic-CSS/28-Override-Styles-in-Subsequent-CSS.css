@@ -1,0 +1,17 @@
+/* In this exercise I learned that the order that the classes are assigned to the element doesn't matter. What matters is the
+order of the classes in the style tags. The latter style in the style tags will override any styles before it. */
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text{
+    color: blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>

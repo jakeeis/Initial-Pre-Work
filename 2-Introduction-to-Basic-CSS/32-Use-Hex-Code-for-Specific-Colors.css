@@ -1,0 +1,8 @@
+/* In this exercise I learned about hexidecimal numbers and how they can be
+used to represent RGB colors, as well as how to use them in css style declarations */
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>

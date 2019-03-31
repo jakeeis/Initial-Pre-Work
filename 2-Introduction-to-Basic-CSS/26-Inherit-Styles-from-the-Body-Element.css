@@ -1,0 +1,11 @@
+/* In this exercise I learned that child elements inherit styles from the body */
+
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+<h1>Hello World</h1>

@@ -1,0 +1,7 @@
+/* In this exercise I learned that the body of a page always exists and it can be styled like any other element */
+
+<style>
+  body {
+    background-color: black;
+  }
+</style>
