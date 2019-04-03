@@ -1,0 +1,14 @@
+//In this exercise I learned how to make a function return a value
+
+// Example
+function minusSeven(num) {
+  return num - 7;
+}
+
+// Only change code below this line
+
+function timesFive(a){
+  return a * 5;
+}
+
+console.log(minusSeven(10));
