@@ -1,0 +1,6 @@
+//In this exercise I learned how to import all of the contents of a file into
+//the script
+
+import * as capitalizeStrings from "capitalize_strings";
+
+"use strict";
